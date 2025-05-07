@@ -3,7 +3,7 @@
 A simple and functional calculator built using **HTML**, **CSS**, and **JavaScript**. Perfect for quick calculations and learning how to build interactive web apps from scratch.
 
 ## 🎬 Demo
-<a href="https://siddhesh-kulkarni.github.io/JS-Calculator/">Check here Live Demo</a>
+<a href="https://siddhesh-kulkarni.github.io/JS-Calculator/" target="_blank">Check here Live Demo</a>
 
 <img src="JS-Calculator.png" width="500px" alt="JavaScript Calculator Screenshot" height="400px" />
 
